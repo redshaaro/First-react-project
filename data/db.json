@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Web Development",
+      "body": "Have a Plan\nRemove stocky images and ambiguous terminology\nInclude social share and follow buttons\nImplement calls-to-action\nUse the right imagery that works for your audience\nCreate a navigation that guides users through your site\nLet your visitors scroll on your homepage\nDon't be afraid of white space\nStay mobile friendly\nFocus on SEO\nNever stop testing\nFind and fix 404s\nCreate unique offerings\nCreate content for your persona",
+      "author": "zeyad",
+      "id": 1
+    },
+    {
+      "title": "Quick And Easy Ways To Become Elegant",
+      "body": "Elegance starts with the heart. It shows in your eyes, your face, your smile. It is present in your speech. There’s something about you. People gravitate towards you because of that something-something.",
+      "author": "zeyad",
+      "id": 2
+    }
+  ]
+}
